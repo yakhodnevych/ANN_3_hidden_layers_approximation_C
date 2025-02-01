@@ -1,0 +1,1 @@
+Modules C_ANN_training.py and C_ANN_calculating.py comply with Python 3.8.9 (tags/v3.8.9:a743f81, Apr  6 2021, 14:02:34)
